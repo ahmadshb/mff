@@ -1,2 +1,2 @@
-# mff
+# mff.
 MARVEL Future Fight Generator
